@@ -1,0 +1,4 @@
+name: Lulu
+version: '${project.version}'
+main: com.proto.Lulu
+api-version: 1.19
